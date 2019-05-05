@@ -15,7 +15,7 @@ combination of which pixels are smaller and which are greater than the center).
 • It finds the distance values between test image's histogram and training histograms.
 • It selects the closest training histogram to determine the person.
 • It uses this distance function: 
-![distance funct](/res/formula.png)
+![distance funct](/res/formula.PNG)
 
 ## To compile:
 cd into the directory of downloaded file unzip the file
